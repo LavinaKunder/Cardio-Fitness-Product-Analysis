@@ -7,6 +7,7 @@ To study and analyze which of the products is effective in terms of fitness and 
 
 ## DataSet:
 The data is for 180 customers of the treadmill product(s) of a retail store called Cardio Good Fitness. It contains the following variables
+
 Product - the model no. of the treadmill
 Age - in no of years, of the customer
 Gender - of the customer
